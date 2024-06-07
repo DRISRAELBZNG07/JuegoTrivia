@@ -35,6 +35,8 @@ void imprimirPregunta(Pregunta pregunta) {
 char capturarRespuesta() {
     //AGREGAR LA IMPLEMENTACIÓN PARA LEER LA RESPUESTA DEL JUGADOR.
     //NO MODIFIQUES LA FIRMA DE LA FUNCIÓN.
+
+    scnaf("Tu recuesta es: %c", &respuestaCorrecta)
 }
 
 
