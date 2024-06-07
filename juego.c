@@ -20,6 +20,8 @@ typedef struct {
  */
 
 void imprimirPregunta(Pregunta pregunta) {
+   printf("%c", pregunta )
+   
     //AGREGAR LA IMPLEMENTACIÓN PARA IMPRIMIR EN CONSOLA LA PREGUNTA Y LAS OPCIONES.
     //NO MODIFIQUES LA FIRMA DE LA FUNCIÓN.
 }
